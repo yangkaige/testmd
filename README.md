@@ -75,7 +75,7 @@ ___
 
 
 
-[百度][http://www.baidu.com "悬停显示"]  
+[百度](http://www.baidu.com "悬停显示")
 
 
 代码高亮
