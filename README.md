@@ -34,5 +34,9 @@
 *无可奈何*
 * 地扔的
 
+* 编程语言  
+    * 脚本语言  
+        * Python  
+
 
 [我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")  
