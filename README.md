@@ -49,5 +49,7 @@
 
 ![](http://www.baidu.com/img/bdlogo.gif)  
 
+[baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo"  
+
 
 [我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")  
