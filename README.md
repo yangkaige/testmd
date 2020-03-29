@@ -47,7 +47,7 @@
 >>>>>满二叉树  
 
 
-![](http://www.baidu.com/img/bdlogo.gif)  
+
 
 
 
