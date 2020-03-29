@@ -70,7 +70,7 @@ ___
 1. 封装
 2. 继承
 3. 多态
-4. 抽象
+4. 抽象  
 [![baidu]](http://baidu.com)  
 [baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo"  
 
